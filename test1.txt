@@ -1,0 +1,10 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is 245B-B81A
+
+ Directory of C:\Users\Muhtar\Desktop\MyProject
+
+03/03/2021  12:09 PM    <DIR>          .
+03/03/2021  12:09 PM    <DIR>          ..
+03/03/2021  12:09 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  126,807,461,888 bytes free
